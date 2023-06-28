@@ -1,4 +1,10 @@
-Attribution 4.0 International https://creativecommons.org/licenses/by/4.0/legalcode.txt 2017-11-05
+For information on any statements regarding IPR claims related to the work of this project, see the [OASIS OP IPR Statements Page.](https://github.com/oasis-open-projects/administration/blob/master/IPR_STATEMENTS.md#<anchor)
+
+OASIS invites anyone who knows of any such claims to disclose these if they may be essential to the implementation of any of the work of this project so that notice of them may be posted to the IPR Statements page.
+
+=======================================================================
+
+[Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode.txt) 2017-11-05
 
 =======================================================================
 
