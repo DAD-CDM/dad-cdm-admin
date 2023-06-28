@@ -3,8 +3,6 @@
 
 DAD-CDM is an [OASIS Open Project](https://oasis-open-projects.org/) comprising a community-driven, standards-based approach to exchanging information.
 
-For more information ...
-
 General questions about OASIS Open Projects may be directed to OASIS staff at project-admin@lists.oasis-open-projects.org
 
 # Other assets
