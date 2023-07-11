@@ -5,7 +5,7 @@
 
 <p>PGB members include representatives of <a href="[link to]SPONSORS.md"> DAD-CDM Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
-<p><i>PGB Co-Chairs</i>: Jean-Philippe Salles and Dr. Georgianna "George" Shea</p>
+<p><i>PGB Co-Chairs</i>: Jean-Philippe Salles, <i>Filigran</i> and Dr. Georgianna "George" Shea, <i>Foundation for the Defense of Democracies</i></p>
 
 <p>PGB members:</p>
 
