@@ -2,7 +2,7 @@
 
 The Project Governing Board sets overall strategic direction for the EEA Community Projects and formally approves released work products.
 
-PGB members include representatives of [OP name sponsor organizations](link to sponsor page) and representatives from the community at-large who serve on the Technical Steering Committee.
+PGB members include representatives of [DAD-CDM sponsor organizations](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee.
 
 The members of the <project name> Project Governing Board are listed at https://dad-cdm.github.io/dad-cdm-admin/
 
