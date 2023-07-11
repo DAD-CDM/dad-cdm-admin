@@ -19,9 +19,9 @@ A list of current PGB members can be found here. Technical Steering Committee Me
 ## Community Roles
 In addition to the project leadership, important roles may be filled by community members:
 
-**Contributors**: A Contributor is someone who has agreed to the Contributor License Agreement (CLA) and who makes regular contributions to one or more NIEM Open projects (including but not limited to activities such as documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). Any person (whether or not an OASIS member or NIEM Open sponsor) may participate in the NIEM Open as a Contributor. The role of contributor is furthermore defined in the OASIS Open Project Rules.
+**Contributors**: A Contributor is someone who has agreed to the Contributor License Agreement (CLA) and who makes regular contributions to one or more DAD-CDM projects (including but not limited to activities such as documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). Any person (whether or not an OASIS member or DAD-CDM sponsor) may participate in DAD-CDM as a Contributor. The role of contributor is furthermore defined in the OASIS Open Project Rules.
 
-**Maintainers**: A Maintainer is someone who has agreed to the Contributor License Agreement (CLA) and has been selected by the TSC to oversee one or more components of an NIEM Open project, review code and pull requests, prepare releases, triage issues, and similar tasks. Maintainers and their requisite duties are managed by the TSC. Any person (whether or not an OASIS member or NIEM Open sponsor) may be appointed as a project Maintainer. The role of Maintainer is furthermore defined in the OASIS Open Project Rules.
+**Maintainers**: A Maintainer is someone who has agreed to the Contributor License Agreement (CLA) and has been selected by the TSC to oversee one or more components of an DAD-CDM project, review code and pull requests, prepare releases, triage issues, and similar tasks. Maintainers and their requisite duties are managed by the TSC. Any person (whether or not an OASIS member or DAD-CDM sponsor) may be appointed as a project Maintainer. The role of Maintainer is furthermore defined in the OASIS Open Project Rules.
 
 ## Project Governing Board
 
