@@ -8,7 +8,7 @@ Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-
 
 ## How to Contribute
 
-When contributing to the repositories in this project, please first discuss significant changes you wish to make via issue, email, GitHub discussion, or via the project's email list.
+(**Suggested Text, PGB to Decide This**) When contributing to the repositories in this project, please first discuss significant changes you wish to make via issue, email, GitHub discussion, or via the project's email list.
 
 ### Issues
 
