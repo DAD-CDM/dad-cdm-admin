@@ -9,7 +9,7 @@
 
 <p>PGB members:</p>
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT38MUZFWO1ISzQWC6wSulN7IJCmYdSOIxBi[…]59bW6McK2Lm0DgJkpaPLAf38AI/pubhtml?gid=1108003767&single=true"></iframe>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT38MUZFWO1ISzQWC6wSulN7IJCmYdSOIxBiofgO4c8mRF0hOuLEO59bW6McK2Lm0DgJkpaPLAf38AI/pubhtml?gid=1108003767&single=true"></iframe>
 </p>
 
 <p>For information on sponsoring these projects or joining the governing board, please contact <a href="mailto:communications@oasis-open.org">communications@oasis-open.org</a>.</p>
