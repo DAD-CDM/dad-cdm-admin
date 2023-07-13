@@ -136,11 +136,19 @@ While these contributions are brought together under an overarching conceptual w
 ___
 
 [1] When we refer to ‘disinformation’, this is shorthand throughout the document for disinformation and the wider terms and fields related to it, including those stated above 
+
 [2] The current version of STIX is Rev. 2.1.  All references in this document are to this version.  Hereafter in this document, it is referred to as 'STIX'.
+
 [3] DISARM-specific TTPs, might, for example, be called as ‘external references’, just as the current Mitre Corporation CAPEC (Common Attack Pattern Enumeration and Classification) data objects are called within the Attack Pattern SDO. This would make the use of STIX for expressing DISARM data objects highly extensible and easily adoptable for vendors that have already implemented solutions using the STIX data model. 
+
 [4] This might, for example, build on the TAC-TC’s existing work with the semantic technology tools of RDF and OWL.
+
 [5] In the medium to long term, the project committee might decide to make informed proposals to the TAC TC. If we decide to incorporate the data modeling of the defense in our charter, then we can also then make an informed proposal to the CACAO TC for implementing playbooks using the DISARM Framework.
+
 [6] Audiences include:  Government analysts and policy makers; Platforms; Journalists and the media; Regional responders; the Intelligence community; Law enforcement; Disinformation trainers/simulators and tool providers.
+
 [7] In addition to STIX (Threat Actor, Incident, Observable, Target, Campaign, Course of Action, TTP, etc.), existing Frameworks might include: ABCDE model (Actor, Behavior, Content, Degree of Distribution, Effect); DISARM Red, Blue and wider data model (https://github.com/DISARMFoundation/DISARMframeworks); Recorded Future’s Diamond Model for Influence Operations (original model by Caltagirone, Pendergast, Betz); Terp-Breuer Campaign Pyramid (Campaign, Incident, Narrative, Artefact); Atlantic Council's SCOTCH model (Source, Channel, Objective, Target, Composition, Hook); SP!CE (MITRE/Florida International University), NCFG (University of Washington), BEND (Carnegie Mellon University) and RESIST 2 (UK Government).
+
 [8] Such as the Open Cybersecurity Alliance (indicators of behavior and automation interoperability), the C2PA or Coalition for Content Provenance and Authenticity (certifying the source and history of media content), the W3C’s Credible Web or Credible Web Community Group of the World Wide Web Consortium (web content credibility indicators), and the JPEG Fake Media initiative.  
+
 [9] The ShareAlike license specifically, like a GPL license, would render the data standard work ineligible for ISO or ITU submission.  This will be for discussion by the project, if needed.
