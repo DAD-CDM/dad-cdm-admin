@@ -9,8 +9,6 @@ General questions about OASIS Open Projects may be directed to OASIS staff at pr
 
 In addition to this GitHub organization, this project also makes use of other assets. 
 
-- WEBSITE?
-
 - The [General purpose mailing list](https://lists.oasis-open-projects.org/g/dad-cdm). To subscribe, send an empty email message to dad-cdm-pgb+subscribe@lists.oasis-open-projects.org. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/dad-cdm/messages).
 
 - The [Project Governing Board mailing list](https://lists.oasis-open-projects.org/g/dad-cdm-pgb). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to dad-cdm-pgb+subscribe@lists.oasis-open-projects.org. Anyone interested is welcome to subscribe read-only. Only PGB members can post. The list maintains an [archive](https://lists.oasis-open-projects.org/g/dad-cdm-pgb/messages).
