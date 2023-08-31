@@ -11,4 +11,5 @@ OASIS Open and DAD-CDM thank the following organizations who generously support 
 * [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)
 * [Limbik](https://www.limbik.com/)
 * [Logically](https://www.logically.ai/)
+* [Marvelous](https://marvelous.ai/)
 * [sFractal Consulting](https://www.sfractal.com/)
