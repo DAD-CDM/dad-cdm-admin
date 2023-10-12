@@ -12,7 +12,7 @@ dad-cdm
 
 ## 2. Abstract
 
-The DAD-CDM open project will address dd[1] and related subjects (e.g., ‘MDM’ (misinformation, disinformation, malinformation), influence operations, online harm campaigns, and ‘FIMI’ – Foreign Information Manipulation and Interference).   ‘Defending’ includes taking the fastest and most effective action in real time, as well as building strategies, plans and capabilities to manage disinformation risks.
+The DAD-CDM open project will address DD[1] and related subjects (e.g., ‘MDM’ (misinformation, disinformation, malinformation), influence operations, online harm campaigns, and ‘FIMI’ – Foreign Information Manipulation and Interference).   ‘Defending’ includes taking the fastest and most effective action in real time, as well as building strategies, plans and capabilities to manage disinformation risks.
 
 The project is born from the need to defend against this existential, ‘whole of society’ problem with collective and coordinated action.  Standards, in common approaches and language, are critical resources to achieving the coordination required.  As an illustration, it is easy for a single person to walk into a building and maliciously and falsely shout “Fire”.  Responding to this involves many people working together to resolve the disruption. This project seeks to address the similar attacker-defender asymmetry in the arena of large-scale disinformation, which is increasingly subject to creation and propagation by artificial intelligence and other automated means.
 
@@ -126,11 +126,11 @@ The project anticipates coordination with the OASIS Cyber Threat Intelligence TC
 
 ## 7. Repositories and Licenses
 
-The project will be conducted under [CC-BY-4.0], the [Creative Commons Attribution 4.0 International][9] under the OASIS Open Project Rules.
+The project will be conducted under [CC-BY-4.0], the [Creative Commons Attribution 4.0 International](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/LICENSE.md)[9] under the OASIS Open Project Rules.
  
 ## 8. Initial Contributions from Existing Work
 
-Contributions will likely include leveraging the work of the EEAS (https://www.eeas.europa.eu/eeas/1st-eeas-report-foreign-information-manipulation-and-interference-threats_en)  in partnership with OpenCTI in extending STIX (eg. Channel and Narrative).  Existing DISARM data structures relevant to this project are anticipated to be contributed:  including the DISARM OBJECTS within the DISARM Red and Blue frameworks (https://github.com/DISARMFoundation/DISARMframeworks).
+Contributions will likely include leveraging the work of the [EEAS](https://www.eeas.europa.eu/eeas/1st-eeas-report-foreign-information-manipulation-and-interference-threats_en)  in partnership with OpenCTI in extending STIX (eg. Channel and Narrative).  Existing DISARM data structures relevant to this project are anticipated to be contributed:  including the DISARM OBJECTS within the DISARM [Red and Blue frameworks](https://github.com/DISARMFoundation/DISARMframeworks).
 
 While these contributions are brought together under an overarching conceptual wider framework, the intended outputs are to leverage the existing STIX IP and not to create a fresh standard. This project does not, therefore, rely on contributors relinquishing any IP which they own to OASIS Open or any other project participant.
 ___
