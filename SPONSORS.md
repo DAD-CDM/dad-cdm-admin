@@ -1,16 +1,17 @@
 # Sponsors of DAD-CDM Project
 
 OASIS Open and DAD-CDM thank the following organizations, who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on.  
+Starred organizations have taken the additional step of signing the enterprise contributor license agreement and seating a representative on the Project Governing Board.
 
 * [Crisp Thinking](https://www.crispthinking.com/)
-* [Cyabra](https://cyabra.com/)
-* [DeBunk EU](https://www.debunk.org/)
-* [DISARM Foundation](https://www.disarm.foundation/)
-* [Disinformation Index](https://www.disinformationindex.org/)
-* [Filigran](https://www.filigran.io/en/)
-* [Foundation for the Defense of Democracies](https://www.filigran.io/en/)
-* [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)
-* [Limbik](https://www.limbik.com/)
-* [Logically](https://www.logically.ai/)
-* [Marvelous](https://marvelous.ai/)
-* [sFractal Consulting](https://www.sfractal.com/)
+* [Cyabra](https://cyabra.com/)  &bigstar;
+* [DeBunk EU](https://www.debunk.org/)  &bigstar;
+* [DISARM Foundation](https://www.disarm.foundation/)  &bigstar;
+* [Disinformation Index](https://www.disinformationindex.org/)  &bigstar;
+* [Filigran](https://www.filigran.io/en/)  &bigstar;
+* [Foundation for the Defense of Democracies](https://www.filigran.io/en/)  &bigstar;
+* [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)  &bigstar;
+* [Limbik](https://www.limbik.com/)  &bigstar;
+* [Logically](https://www.logically.ai/)  &bigstar;
+* [Marvelous](https://marvelous.ai/)  &bigstar;
+* [sFractal Consulting](https://www.sfractal.com/)  &bigstar;
