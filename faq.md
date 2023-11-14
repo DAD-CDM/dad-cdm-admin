@@ -1,7 +1,7 @@
 # DAD-CDM FAQ
 
 ## Q1: What is the purpose of DAD-CDM? 
-The purpose of the DAD-CDM project is to gather and coalesce contributions from the public ([see Q11]()) into an international standard for codifying and sharing information on threats to the integrity of the public sphere and best practices for responding to these threats while upholding the right to freedom of expression [^1].    
+The purpose of the DAD-CDM project is to gather and coalesce contributions from the public ([see Q11](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/faq.md#q11-who-can-contribute-to-dad-cdm)) into an international standard for codifying and sharing information on threats to the integrity of the public sphere and best practices for responding to these threats while upholding the right to freedom of expression [^1].    
 
 ## Q2: Who will be able to use DAD-CDM once it is developed? 
 Users of the DAD-CDM standard are likely to include governments, corporations, civil society and media organizations, and information-sharing and analysis centers and organizations (ISACs and ISAOs [^2]). The primary objective is to ensure that DAD-CDM is accessible to a wide array of users engaged in combating threats to the public information environment, fostering trustworthiness in information sources, and promoting collaborative initiatives on a global level.
