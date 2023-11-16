@@ -3,7 +3,7 @@
 
 <p>The Project Governing Board sets overall strategic direction of the DAD-CDM project and formally approves released work products.</p> 
 
-<p>PGB members include representatives of <a href="[link to]SPONSORS.md"> DAD-CDM Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
+<p>PGB members include representatives of <a href="https://github.com/DAD-CDM/dad-cdm-admin/blob/main/SPONSORS.md"> DAD-CDM Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
 <p><i>PGB Co-Chairs</i>: Jean-Philippe Salles, <i>Filigran</i> and Dr. Georgianna "George" Shea, <i>Foundation for the Defense of Democracies</i></p>
 
