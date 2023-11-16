@@ -12,11 +12,11 @@ dad-cdm
 
 ## 2. Abstract
 
-The DAD-CDM open project will address disinformation[1] and related subjects (e.g., ‘MDM’ (misinformation, disinformation, malinformation), influence operations, online harm campaigns, and ‘FIMI’ – Foreign Information Manipulation and Interference).   ‘Defending’ includes taking the fastest and most effective action in real time, as well as building strategies, plans and capabilities to manage disinformation risks.
+The DAD-CDM open project will address disinformation[^1] and related subjects (e.g., ‘MDM’ (misinformation, disinformation, malinformation), influence operations, online harm campaigns, and ‘FIMI’ – Foreign Information Manipulation and Interference).   ‘Defending’ includes taking the fastest and most effective action in real time, as well as building strategies, plans and capabilities to manage disinformation risks.
 
 The project is born from the need to defend against this existential, ‘whole of society’ problem with collective and coordinated action.  Standards, in common approaches and language, are critical resources to achieving the coordination required.  As an illustration, it is easy for a single person to walk into a building and maliciously and falsely shout “Fire”.  Responding to this involves many people working together to resolve the disruption. This project seeks to address the similar attacker-defender asymmetry in the arena of large-scale disinformation, which is increasingly subject to creation and propagation by artificial intelligence and other automated means.
 
-The project is committed to  providing recommendations to extend the STIX[2] standard with disinformation-related objects and relationships, in order to model disinformation and hybrid cyber-disinformation threats. The project might also – in the longer term - provide recommendations to extend STIX with objects and relationships to model mitigations by defenders, but will have the option to consider adopting other open standards or creating a new standard for this purpose, if absolutely necessary.     
+The project is committed to  providing recommendations to extend the STIX[^2] standard with disinformation-related objects and relationships, in order to model disinformation and hybrid cyber-disinformation threats. The project might also – in the longer term - provide recommendations to extend STIX with objects and relationships to model mitigations by defenders, but will have the option to consider adopting other open standards or creating a new standard for this purpose, if absolutely necessary.     
 
 The project outputs will include a sufficient set of data objects, taxonomies, data operators and exchange messages to support robust and secure exchanges of threat and mitigation information.  The output is expected to complement and work in concert with larger efforts to guide, coordinate and promote sharing of disinformation mitigation resources offered and planned by others across the global ‘disinformation defender’ community. 
 
@@ -32,11 +32,11 @@ Parties defending against disinformation attacks – or managing/mitigating the 
 * Secondly, to correlate these TTPs and related data objects to corresponding defender tasks, such as the tagging of behaviors detected online, sharing data, analyzing data, producing reports, and identifying available countermeasures.
 
 The field of cybersecurity – being both more mature than defending against disinformation, as well as being related within wider ‘hybrid’ threats – provides existing models, protocols, policies, systems etc. which can be leveraged for proven pathways and accelerated development.
-To-date, the DISARM Framework has standardized the codification of adversary behavior TTPs.  These behaviors are the ‘B’ in the ‘ABCDE’ model, which also includes Actors, Content, Distribution and Effect.  A behavior TTP is represented in machine readable form as the STIX Domain Object (SDO) ‘Attack Pattern’[3]. Taking other examples – e.g. Content (analyzing narratives using NLP or fact-checking content against knowledge databases), or Distribution (analyzing the provenance, dissemination and targeting of disinformation through online channels such as social media, messaging apps etc.) – we want narrative frameworks, fact-checking tools and social media monitoring tools to be able to interoperate with DISARM's Behavioral framework and other frameworks and other tools, so that the community can bring all threat data together in machine readable format at speed and scale.
+To-date, the DISARM Framework has standardized the codification of adversary behavior TTPs.  These behaviors are the ‘B’ in the ‘ABCDE’ model, which also includes Actors, Content, Distribution and Effect.  A behavior TTP is represented in machine readable form as the STIX Domain Object (SDO) ‘Attack Pattern’[^3]. Taking other examples – e.g. Content (analyzing narratives using NLP or fact-checking content against knowledge databases), or Distribution (analyzing the provenance, dissemination and targeting of disinformation through online channels such as social media, messaging apps etc.) – we want narrative frameworks, fact-checking tools and social media monitoring tools to be able to interoperate with DISARM's Behavioral framework and other frameworks and other tools, so that the community can bring all threat data together in machine readable format at speed and scale.
 
 A primary purpose for this Open Project is to define the broader data model for characterizing disinformation threats so that we can leverage what exists in STIX today and extend it as necessary and so that we can model hybrid cyber-disinformation threats.
 
-The project committee might – in the longer term – also look at risk, countermeasure and playbook extensions of the data model, as well as knowledge representation and semantic modeling[4].  However, the intention of this Charter is to ensure we ‘walk before we run’ and build a solid foundation for further development of the model.
+The project committee might – in the longer term – also look at risk, countermeasure and playbook extensions of the data model, as well as knowledge representation and semantic modeling[^4].  However, the intention of this Charter is to ensure we ‘walk before we run’ and build a solid foundation for further development of the model.
 
 As a parallel purpose and output from the DAD-CDM project, the intention is to clarify terminology; from ‘disinformation’ itself at the highest level, down to a taxonomy that underpins all aspects of the data model.  The project will aim to bring the defender community together to create a common lexicon or dictionary of terms that we can all agree on.
 
@@ -44,7 +44,7 @@ The project will aim to bring the best minds of the community together on this q
 
 Two further key aspects of the project purpose:
 
-(a) there is a need for defenders to act quickly.  To identify and respond to disinformation that is generated rapidly (e.g. using generative AI) and/or spread rapidly (e.g. using botnets or exploitation of recommendation algorithms) in time for responses to be effective (eg. filling information voids; pre-bunking; inoculating) because cognitive dissonance in ‘unlearning’ is just too high.   We therefore need to martial the data objects and relationships to model an adversarial campaign and propose STIX amendments or extensions to the CTI TC; making sure this helps the entire counter-disinformation community, and we can capture all the behaviors and observables of an adversary's campaign and characterize the threat actor[5].
+(a) there is a need for defenders to act quickly.  To identify and respond to disinformation that is generated rapidly (e.g. using generative AI) and/or spread rapidly (e.g. using botnets or exploitation of recommendation algorithms) in time for responses to be effective (eg. filling information voids; pre-bunking; inoculating) because cognitive dissonance in ‘unlearning’ is just too high.   We therefore need to martial the data objects and relationships to model an adversarial campaign and propose STIX amendments or extensions to the CTI TC; making sure this helps the entire counter-disinformation community, and we can capture all the behaviors and observables of an adversary's campaign and characterize the threat actor[^5].
 
 (b) to be able to model hybrid threats such as cyber-enabled influence (e.g. hack and leak) or internet-enabled cyber (e.g., clickbait) with as little redundancy as possible – i.e., we want to be able to leverage the existing data model for cyber as much as possible aka STIX and complement the data model for cyber where necessary.
 
@@ -77,7 +77,7 @@ All of the above, taken together, deliver higher-level benefits, including:
 * Increased clarity for operating arrangements between platforms and their regulators
 * Enabling the development of shared infrastructure, such as disinformation ISAC/ISAOs.
 
-Given the ‘whole of society’ approach that is required, the benefits will be applied in different ways across the primary audiences[6] for DAD-CDM.
+Given the ‘whole of society’ approach that is required, the benefits will be applied in different ways across the primary audiences[^6] for DAD-CDM.
 
 ## 5. Normative Scope
 
@@ -90,7 +90,7 @@ The standards outputs of DAD-CDM will:
 * re-use and adapt suitable elements of existing open standards for threat information and mitigation – primarily STIX 
 * consider leveraging existing adaptations of cybersecurity threat data tools to the disinformation space, where feasible, in preference to reinventing the wheel
 * potentially, initially conduct a review and gap analysis of the relevant data elements of STIX, for use or adaptation
-* incorporate existing frameworks and/or elements of frameworks[7] into the wider model – generally building with and/or on the more complete/mature assets that already exist
+* incorporate existing frameworks and/or elements of frameworks[^7] into the wider model – generally building with and/or on the more complete/mature assets that already exist
 * assume, and be designed to interact with, the development of broader voluntary networks of shared data and resources among good faith actors and defenders against disinformation
 * be designed to facilitate and encourage sharing of data, signals and tactics among and across user and defender communities
 * be designed to work with and support multiple sources of best practices and mitigation methods, understanding that a variety of voluntary sharing communities may evolve, each with their own guidance and information sharing partners and patterns
@@ -122,11 +122,11 @@ In addition to the significant number of existing disinformation frameworks alre
 
 The approach, in building DAD-CDM will be to identify the best of what already exists – as potential elements/modules – and to build with these. 
 
-The project anticipates coordination with the OASIS Cyber Threat Intelligence TC (source of the STIX and TAXII standards). It also foresees possible coordination with other existing and emerging open standards initiatives related to information security and integrity[8].
+The project anticipates coordination with the OASIS Cyber Threat Intelligence TC (source of the STIX and TAXII standards). It also foresees possible coordination with other existing and emerging open standards initiatives related to information security and integrity[^8].
 
 ## 7. Repositories and Licenses
 
-The project will be conducted under [CC-BY-4.0], the [Creative Commons Attribution 4.0 International](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/LICENSE.md)[9] under the OASIS Open Project Rules.
+The project will be conducted under [CC-BY-4.0], the [Creative Commons Attribution 4.0 International](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/LICENSE.md)[^9] under the OASIS Open Project Rules.
  
 ## 8. Initial Contributions from Existing Work
 
@@ -135,20 +135,20 @@ Contributions will likely include leveraging the work of the [EEAS](https://www.
 While these contributions are brought together under an overarching conceptual wider framework, the intended outputs are to leverage the existing STIX IP and not to create a fresh standard. This project does not, therefore, rely on contributors relinquishing any IP which they own to OASIS Open or any other project participant.
 ___
 
-[1] When we refer to ‘disinformation’, this is shorthand throughout the document for disinformation and the wider terms and fields related to it, including those stated above 
+[^1]: When we refer to ‘disinformation’, this is shorthand throughout the document for disinformation and the wider terms and fields related to it, including those stated above 
 
-[2] The current version of STIX is Rev. 2.1.  All references in this document are to this version.  Hereafter in this document, it is referred to as 'STIX'.
+[^2]: The current version of STIX is Rev. 2.1.  All references in this document are to this version.  Hereafter in this document, it is referred to as 'STIX'.
 
-[3] DISARM-specific TTPs, might, for example, be called as ‘external references’, just as the current Mitre Corporation CAPEC (Common Attack Pattern Enumeration and Classification) data objects are called within the Attack Pattern SDO. This would make the use of STIX for expressing DISARM data objects highly extensible and easily adoptable for vendors that have already implemented solutions using the STIX data model. 
+[^3]: DISARM-specific TTPs, might, for example, be called as ‘external references’, just as the current Mitre Corporation CAPEC (Common Attack Pattern Enumeration and Classification) data objects are called within the Attack Pattern SDO. This would make the use of STIX for expressing DISARM data objects highly extensible and easily adoptable for vendors that have already implemented solutions using the STIX data model. 
 
-[4] This might, for example, build on the TAC-TC’s existing work with the semantic technology tools of RDF and OWL.
+[^4]: This might, for example, build on the TAC-TC’s existing work with the semantic technology tools of RDF and OWL.
 
-[5] In the medium to long term, the project committee might decide to make informed proposals to the TAC TC. If we decide to incorporate the data modeling of the defense in our charter, then we can also then make an informed proposal to the CACAO TC for implementing playbooks using the DISARM Framework.
+[^5]: In the medium to long term, the project committee might decide to make informed proposals to the TAC TC. If we decide to incorporate the data modeling of the defense in our charter, then we can also then make an informed proposal to the CACAO TC for implementing playbooks using the DISARM Framework.
 
-[6] Audiences include:  Government analysts and policy makers; Platforms; Journalists and the media; Regional responders; the Intelligence community; Law enforcement; Disinformation trainers/simulators and tool providers.
+[^6]: Audiences include:  Government analysts and policy makers; Platforms; Journalists and the media; Regional responders; the Intelligence community; Law enforcement; Disinformation trainers/simulators and tool providers.
 
-[7] In addition to STIX (Threat Actor, Incident, Observable, Target, Campaign, Course of Action, TTP, etc.), existing Frameworks might include: ABCDE model (Actor, Behavior, Content, Degree of Distribution, Effect); DISARM Red, Blue and wider data model (https://github.com/DISARMFoundation/DISARMframeworks); Recorded Future’s Diamond Model for Influence Operations (original model by Caltagirone, Pendergast, Betz); Terp-Breuer Campaign Pyramid (Campaign, Incident, Narrative, Artefact); Atlantic Council's SCOTCH model (Source, Channel, Objective, Target, Composition, Hook); SP!CE (MITRE/Florida International University), NCFG (University of Washington), BEND (Carnegie Mellon University) and RESIST 2 (UK Government).
+[^7]: In addition to STIX (Threat Actor, Incident, Observable, Target, Campaign, Course of Action, TTP, etc.), existing Frameworks might include: ABCDE model (Actor, Behavior, Content, Degree of Distribution, Effect); DISARM Red, Blue and wider data model (https://github.com/DISARMFoundation/DISARMframeworks); Recorded Future’s Diamond Model for Influence Operations (original model by Caltagirone, Pendergast, Betz); Terp-Breuer Campaign Pyramid (Campaign, Incident, Narrative, Artefact); Atlantic Council's SCOTCH model (Source, Channel, Objective, Target, Composition, Hook); SP!CE (MITRE/Florida International University), NCFG (University of Washington), BEND (Carnegie Mellon University) and RESIST 2 (UK Government).
 
-[8] Such as the Open Cybersecurity Alliance (indicators of behavior and automation interoperability), the C2PA or Coalition for Content Provenance and Authenticity (certifying the source and history of media content), the W3C’s Credible Web or Credible Web Community Group of the World Wide Web Consortium (web content credibility indicators), and the JPEG Fake Media initiative.  
+[^8]: Such as the Open Cybersecurity Alliance (indicators of behavior and automation interoperability), the C2PA or Coalition for Content Provenance and Authenticity (certifying the source and history of media content), the W3C’s Credible Web or Credible Web Community Group of the World Wide Web Consortium (web content credibility indicators), and the JPEG Fake Media initiative.  
 
-[9] The ShareAlike license specifically, like a GPL license, would render the data standard work ineligible for ISO or ITU submission.  This will be for discussion by the project, if needed.
+[^9]: The ShareAlike license specifically, like a GPL license, would render the data standard work ineligible for ISO or ITU submission.  This will be for discussion by the project, if needed.
