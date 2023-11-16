@@ -12,7 +12,7 @@ dad-cdm
 
 ## 2. Abstract
 
-The DAD-CDM open project will address DD[1] and related subjects (e.g., ‘MDM’ (misinformation, disinformation, malinformation), influence operations, online harm campaigns, and ‘FIMI’ – Foreign Information Manipulation and Interference).   ‘Defending’ includes taking the fastest and most effective action in real time, as well as building strategies, plans and capabilities to manage disinformation risks.
+The DAD-CDM open project will address disinformation[1] and related subjects (e.g., ‘MDM’ (misinformation, disinformation, malinformation), influence operations, online harm campaigns, and ‘FIMI’ – Foreign Information Manipulation and Interference).   ‘Defending’ includes taking the fastest and most effective action in real time, as well as building strategies, plans and capabilities to manage disinformation risks.
 
 The project is born from the need to defend against this existential, ‘whole of society’ problem with collective and coordinated action.  Standards, in common approaches and language, are critical resources to achieving the coordination required.  As an illustration, it is easy for a single person to walk into a building and maliciously and falsely shout “Fire”.  Responding to this involves many people working together to resolve the disruption. This project seeks to address the similar attacker-defender asymmetry in the arena of large-scale disinformation, which is increasingly subject to creation and propagation by artificial intelligence and other automated means.
 
