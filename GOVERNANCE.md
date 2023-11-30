@@ -49,9 +49,7 @@ For most decisions, the PGB operates by [lazy consensus](https://community.apach
 Any community member may submit a request for recall of a TSC chair to the PGB at any time by submitting the request and sufficient justification to the PGB chair or co-chairs. Such requests shall be held in confidence by the PGB chair or co-chairs. In the event of receipt of such a request, the chair or co-chairs shall schedule the recall as an item for discussion at the next PGB meeting, which shall be held no later than 30 days after the receipt of the request. After subsequent discussion, the recall shall be decided upon by a [full majority vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB. In the event of a recall vote passing, the TSC chair shall at that time be considered immediately recalled and be relieved of all responsibilities conferred via the position.
 
 ## Incubation Process
-
-**EXAMPLE TEXT**: At this time, new projects may be accepted into DAD-CDM at the sole discretion of the PGB
-**Example Text** : At this time, new projects are not being considered for inclusion into DAD-CDM. This can change at the sole discretion of the PGB.
+ At this time, new projects are not being considered for inclusion into DAD-CDM. This can change at the sole discretion of the PGB.
 
 ## Updating Governance
 
