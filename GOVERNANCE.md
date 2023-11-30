@@ -42,7 +42,7 @@ For most decisions, the PGB operates by [lazy consensus](https://community.apach
 
 ## Technical Steering Committees
 
-* Governance of the **(To Be Named) TSC can be found at TBD**
+* Governance of the DAD-CDM Technical Steering Committee can be found [here](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/TSC-CHARTER.md). The DAD-CDM TSC is currently under development. Check back for more information soon.
 
 ### Recall Procedure
 
