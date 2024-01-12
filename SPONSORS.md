@@ -3,6 +3,7 @@
 OASIS Open and DAD-CDM thank the following organizations, who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on.  
 Starred organizations have taken the additional step of signing the enterprise contributor license agreement and seating a representative on the Project Governing Board.
 
+* AdTechCares
 * [Crisp – A Kroll Business](https://www.crispthinking.com/) &bigstar;
 * [Cyabra](https://cyabra.com/)  &bigstar;
 * [DeBunk EU](https://www.debunk.org/)  &bigstar;
@@ -15,3 +16,4 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Logically](https://www.logically.ai/)  &bigstar;
 * [Marvelous](https://marvelous.ai/)  &bigstar;
 * [sFractal Consulting](https://www.sfractal.com/)  &bigstar;
+* [Storyzy](https://storyzy.com/?lang=en)
