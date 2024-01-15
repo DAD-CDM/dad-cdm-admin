@@ -10,7 +10,7 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [DISARM Foundation](https://www.disarm.foundation/)  &bigstar;
 * [Disinformation Index](https://www.disinformationindex.org/)  &bigstar;
 * [Filigran](https://www.filigran.io/en/)  &bigstar;
-* [Foundation for the Defense of Democracies](https://www.filigran.io/en/)  &bigstar;
+* [Foundation for the Defense of Democracies](https://www.fdd.org/)  &bigstar;
 * [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)  &bigstar;
 * [Limbik](https://www.limbik.com/)  &bigstar;
 * [Logically](https://www.logically.ai/)  &bigstar;
