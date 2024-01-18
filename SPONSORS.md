@@ -4,6 +4,7 @@ OASIS Open and DAD-CDM thank the following organizations, who generously support
 Starred organizations have taken the additional step of signing the enterprise contributor license agreement and seating a representative on the Project Governing Board.
 
 * AdTechCares
+* [Aretec](https://aretec.ai/)
 * [Crisp – A Kroll Business](https://www.crispthinking.com/) &bigstar;
 * [Cyabra](https://cyabra.com/)  &bigstar;
 * [DeBunk EU](https://www.debunk.org/)  &bigstar;
