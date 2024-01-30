@@ -14,7 +14,7 @@ DAD-CDM is overseen by the following committees:
 
 **Technical Steering Committee 1 (Enter Name Once Decided)** -- More information coming soon.
 
-A list of current PGB members can be found here. Technical Steering Committee Members can be found here:
+A list of current PGB members can be found [here](https://dad-cdm.github.io/dad-cdm-admin/). Technical Steering Committee Members can be found here (to be announced).
 
 ## Community Roles
 In addition to the project leadership, important roles may be filled by community members:
