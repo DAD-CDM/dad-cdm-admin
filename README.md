@@ -1,3 +1,4 @@
+<img src="/DAD-CDM-01.jpg" width="200">
 
 # DAD-CDM OASIS Open Project
 
