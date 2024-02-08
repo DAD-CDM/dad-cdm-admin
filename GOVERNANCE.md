@@ -35,6 +35,7 @@ For most decisions, the PGB operates by [lazy consensus](https://community.apach
 
 * Any action or decision that may bind the DAD-CDM project to commitments or obligations with any external party or entity, including but not limited to legal, financial, or intellectual property related commitments or obligations
 * Promoting work to an OASIS standards track
+* Election of Chairs/Co-Chairs
 * Starting or consuming a new project into the DAD-CDM
 * Endorsements, partnerships, or liaisons with other groups
 * Substantive changes to the Governance policies or documents
