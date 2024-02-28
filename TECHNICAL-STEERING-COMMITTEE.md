@@ -7,7 +7,7 @@ The following members constitute the TSC for the 2024 calendar year (in alphabet
 
 * Anil 	Bandhakavi,	Logically
 * Carl 	Miller, DEMOS/CASM
-* Milan	Jovanovic	Debunk.org
+* Milan	Jovanovic,	Debunk.org
 * Samuel 	Hassine, Filigran
 * Stephen	Campbell,	DISARM Foundation
 * Yanis	Naceur, SGDSN/Viginum
