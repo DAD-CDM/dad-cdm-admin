@@ -5,11 +5,15 @@ The scope of the TSC is creating and maintaining all work products within the sc
 
 The following members constitute the TSC for the 2024 calendar year (in alphabetical order):
 
+* Amruta Deshpande, Graphika
 * Anil 	Bandhakavi,	Logically
 * Carl 	Miller, DEMOS/CASM
-* Milan	Jovanovic,	Debunk.org
-* Samuel 	Hassine, Filigran
+* E. Rosalie Li, Information Epidemiology Lab
+* Margot Fulde-Hardy, Red & Blue Consulting
+* Mark Finlayson, Florida International University
+* Milan	Jovanovic, Debunk.org
+* Samuel Blazek, Two Six Technologies
+* Samuel Hassine, Filigran
 * Stephen	Campbell,	DISARM Foundation
 * Yanis	Naceur, SGDSN/Viginum
-
 
