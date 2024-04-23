@@ -14,7 +14,7 @@ DAD-CDM is overseen by the following committees:
 
 **Technical Steering Committee 1 (Enter Name Once Decided)** -- More information coming soon.
 
-A list of current PGB members can be found [here](https://dad-cdm.github.io/dad-cdm-admin/). Technical Steering Committee Members can be found here (to be announced).
+A list of current PGB members can be found [here](https://dad-cdm.github.io/dad-cdm-admin/). Technical Steering Committee Members can be found [here](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/TECHNICAL-STEERING-COMMITTEE.md). 
 
 ## Community Roles
 In addition to the project leadership, important roles may be filled by community members:
@@ -43,7 +43,7 @@ For most decisions, the PGB operates by [lazy consensus](https://community.apach
 
 ## Technical Steering Committees
 
-* Governance of the DAD-CDM Technical Steering Committee can be found [here](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/TSC-CHARTER.md). The DAD-CDM TSC is currently under development. Check back for more information soon.
+* Governance of the DAD-CDM Technical Steering Committee can be found [here](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/TSC-CHARTER.md). 
 
 ### Recall Procedure
 
