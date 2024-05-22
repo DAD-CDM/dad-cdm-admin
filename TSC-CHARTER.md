@@ -28,7 +28,7 @@ Once 5 have agreed, the first TSC meeting can take place, and the TSC will take 
 TSC members must have signed and submitted an [individual CLA](https://www.oasis-open.org/open-projects/cla/oasis-open-projects-individual-contributor-license-agreement-i-cla/), and if appointed by an entity, that entity must have signed and submitted an [entity CLA](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/). A list of TSC members shall be maintained and posted at the general information web page designated by OASIS for the Project.
 
 ## Attendance Policy
-TSC members are expected to attend the meetings on a regular basis and should send a notice to the chair(s) if they cannot attend a meeting.A TSC member can’t miss more than 3 consecutive meetings without prior notice. 
+TSC members are expected to attend the meetings on a regular basis and should send a notice to the chair(s) if they cannot attend a meeting. A TSC member can’t miss more than 3 consecutive meetings without prior notice. 
 
 PGB Chairs reserve the right to remove TSC members for persistent non-attendance.
 
