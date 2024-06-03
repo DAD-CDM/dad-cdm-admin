@@ -16,5 +16,4 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Limbik](https://www.limbik.com/)  &bigstar;
 * [Logically](https://www.logically.ai/)  &bigstar;
 * [Marvelous](https://marvelous.ai/)  &bigstar;
-* [sFractal Consulting](https://www.sfractal.com/)  &bigstar;
 * [Storyzy](https://storyzy.com/?lang=en) &bigstar;
