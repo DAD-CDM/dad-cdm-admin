@@ -6,7 +6,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 * AdTechCares
 * [Aretec](https://aretec.ai/)
 * [Crisp – A Kroll Business](https://www.crispthinking.com/) &bigstar;
-* [Cyabra](https://cyabra.com/)  &bigstar;
 * [DeBunk EU](https://www.debunk.org/)  &bigstar;
 * [DISARM Foundation](https://www.disarm.foundation/)  &bigstar;
 * [Disinformation Index](https://www.disinformationindex.org/)  &bigstar;
@@ -14,6 +13,5 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Foundation for the Defense of Democracies](https://www.fdd.org/)  &bigstar;
 * [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)  &bigstar;
 * [Limbik](https://www.limbik.com/)  &bigstar;
-* [Logically](https://www.logically.ai/)  &bigstar;
 * [Marvelous](https://marvelous.ai/)  &bigstar;
 * [Storyzy](https://storyzy.com/?lang=en) &bigstar;
