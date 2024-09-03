@@ -33,11 +33,12 @@ TSC members are expected to attend the meetings on a regular basis and should se
 PGB Chairs reserve the right to remove TSC members for persistent non-attendance.
 
 ## Removal
-A TSC member is eligible to lose their seat for violating the Code of Conduct through a simple majority vote of TSC members that are not being considered for removal.
+A TSC member is eligible to lose their seat for violating the [OASIS Participants Code of Conduct](https://www.oasis-open.org/policies-guidelines/oasis-participants-code-of-conduct/). Violations of the Code of Conduct may be reported to OASIS Staff at [code-of-conduct@oasis-open.org](mailto:code-of-conduct@oasis-open.org).
 
-After removal, a special election shall be governed by OASIS for the vacant seat among contributors. The seat will be up for re-election at the next regular election cycle.
+If OASIS staff determines that a violation of the Code of Conduct has occurred, then OASIS staff will coordinate with the PGB on an appropriate resolution.
 
-The PGB of the DAD-CDM Open Project has the option to consider extenuating circumstances and determine whether or not to remove a member, if the TSC itself cannot come to a determination.
+After a removal, a special election shall be governed by OASIS for the vacant seat among contributors. The seat will be up for re-election at the next regular election cycle.
+
 
 ## Updating Governance
 All substantive changes in Governance require a [full majority vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the TSC and subsequent approval of the PGB.
