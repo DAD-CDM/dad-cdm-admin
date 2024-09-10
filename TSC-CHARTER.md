@@ -20,7 +20,7 @@ In the second year, starting in February 2025, the PGB will reconfirm the initia
 
 In year three, the PGB will review the process for populating the TSC and can decide whether is wants to continue appointing TSC members, or if there will be annual elections of members, starting in February 2026. 
 
-If there the PGB decides to hold an election, the election process shall be conducted as follows: A call for nominations will be sent out to the community of interest at least two weeks before the election is held. Current members of the TSC may volunteer to continue their service. Members will be elected for a one-year term.
+If then the PGB decides to hold an election, the election process shall be conducted as follows: A call for nominations will be sent out to the community of interest at least two weeks before the election is held. Current members of the TSC may volunteer to continue their service. Members will be elected for a one-year term.
 
 The vote will be by electronic ballot. The TSC or PGB may request that OASIS staff carry out the vote. Eligible voters will be contributors to the project who have had a pull request approved or made other contributions to the project during the previous year, e.g. participated in a working group on a regular basis, etc.
 
