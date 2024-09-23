@@ -12,13 +12,19 @@ The TSC will bring together three different types of knowledge: (1) the knowledg
 ## Composition
 The DAD-CDM Technical Steering Committee will be composed of at least 5 Members (with a maximum of 11), one of whom will serve as TSC Chair or two as TSC Co-Chairs. The TSC will elect one of its members to act as its voting representative on the PGB by Full Majority Vote. The Chair will notify the PGB of the committee's choice. In the scenario where the TSC voting representative also holds a position as a PGB voting member, this does not grant an additional voting privilege.  
 
-## Start-Up Phase
-The initial membership of the TSC will be recruited and appointed by the Project Governing Board, who will also appoint one of the members Chair or Co-Chair. The term for serving on the TSC is one year.
+### Start-Up Phase
+In the first year, the membership of the TSC will be recruited and appointed by the Project Governing Board, who will also appoint one or two of the members Chair and Co-Chair. The term for serving on the TSC is one year.
 
 ## Ongoing Membership
-After the TSC is initially formed, it will hold annual elections of members and selection of the Chair, starting in November 2024. A call for nominations will be sent out to the community of interest at least two weeks before the election is held. Current members of the TSC may volunteer to continue their service. Members will be elected for a one-year term.
+In the second year, starting in February 2025, the PGB will reconfirm the initial TSC members, replace or add new members as needed. The TSC will re-confirm the current Co-Chairs, or elect new Co-Chairs by Full Majority Vote.
 
-The vote will be by electronic ballot. The TSC or PGB may request that OASIS staff carry out the vote. Eligible voters will be contributors to the project who have had a pull request approved or made other contributions to the project during the previous year. The TSC Chairs or Secretary, should one be appointed for the committee, will be responsible for maintaining the list of eligible voters.
+In year three, the PGB will review the process for populating the TSC and can decide whether is wants to continue appointing TSC members, or if there will be annual elections of members, starting in February 2026. 
+
+If then the PGB decides to hold an election, the election process shall be conducted as follows: A call for nominations will be sent out to the community of interest at least two weeks before the election is held. Current members of the TSC may volunteer to continue their service. Members will be elected for a one-year term.
+
+The vote will be by electronic ballot. The TSC or PGB may request that OASIS staff carry out the vote. Eligible voters will be contributors to the project who have had a pull request approved or made other contributions to the project during the previous year, e.g. participated in a working group on a regular basis, etc.
+
+The TSC Chairs or Secretary, should one be appointed for the committee, will be responsible for maintaining the list of eligible voters.
 
 The ballot will remain open for 7 days. Voters will select 5 candidates and a further six in priority order to take the TSC up to a maximum 11, with a list of others in reserve for those who are not willing/able to accept the request.
 
