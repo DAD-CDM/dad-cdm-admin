@@ -5,7 +5,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 
 * AdTechCares
 * [Aretec](https://aretec.ai/)
-* [Crisp – A Kroll Business](https://www.crispthinking.com/) &bigstar;
 * [DeBunk EU](https://www.debunk.org/)  &bigstar;
 * [DISARM Foundation](https://www.disarm.foundation/)  &bigstar;
 * [Disinformation Index](https://www.disinformationindex.org/)  &bigstar;
