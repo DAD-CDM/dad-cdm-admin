@@ -11,6 +11,5 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Filigran](https://www.filigran.io/en/)  &bigstar;
 * [Foundation for the Defense of Democracies](https://www.fdd.org/)  &bigstar;
 * [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)  &bigstar;
-* [Limbik](https://www.limbik.com/)  &bigstar;
 * [Marvelous](https://marvelous.ai/)  &bigstar;
 * [Storyzy](https://storyzy.com/?lang=en) &bigstar;
