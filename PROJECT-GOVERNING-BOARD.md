@@ -1,4 +1,4 @@
-# Defending Against Disinformation-Common Data Model Project Governing Board (PGB)
+# Defending Against Deception Common Data Model (DAD-CDM) Project Governing Board (PGB)
 
 The Project Governing Board sets overall strategic direction for the DAD-CDM Open Project and formally approves released work products.
 
