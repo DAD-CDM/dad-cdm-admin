@@ -14,3 +14,5 @@
 
 <p>For information on sponsoring these projects or joining the governing board, please contact <a href="mailto:communications@oasis-open.org">communications@oasis-open.org</a>.</p>
 
+<p>Find all documents related to the governance of DAD-CDM <a href="https://github.com/DAD-CDM/dad-cdm-admin">here </a>.</p>
+
