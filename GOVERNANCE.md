@@ -12,7 +12,7 @@ DAD-CDM is overseen by the following committees:
 
 **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth.
 
-**Technical Steering Committee 1 (Enter Name Once Decided)** -- More information coming soon.
+**Technical Steering Committee**: Tasked with creating and maintaining all work products within the scope of the DAD-CDM project.
 
 A list of current PGB members can be found [here](https://dad-cdm.github.io/dad-cdm-admin/). Technical Steering Committee Members can be found [here](https://github.com/DAD-CDM/dad-cdm-admin/blob/main/TECHNICAL-STEERING-COMMITTEE.md). 
 
