@@ -5,7 +5,7 @@
 
 <p>PGB members include representatives of <a href="https://github.com/DAD-CDM/dad-cdm-admin/blob/main/SPONSORS.md"> DAD-CDM Sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee:</p>
 
-<p><i>PGB Co-Chairs</i>: Max Lesser, <i>FDD</i> and Danielle Deibler, <i>Marvelous</i>
+<p><i>PGB Co-Chairs</i>: Max Lesser, <i>FDD</i> Danielle Deibler, <i>Marvelous</i>, and Rachele Gilman, <i>GDI</i>
 
 <p>PGB members:</p>
 
