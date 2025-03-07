@@ -5,7 +5,6 @@ Starred organizations have taken the additional step of signing the enterprise c
 
 * AdTechCares &bigstar;
 * [DeBunk EU](https://www.debunk.org/)  &bigstar;
-* [DISARM Foundation](https://www.disarm.foundation/)  &bigstar;
 * [Disinformation Index](https://www.disinformationindex.org/)  &bigstar;
 * [Foundation for the Defense of Democracies](https://www.fdd.org/)  &bigstar;
 * [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)  &bigstar;
