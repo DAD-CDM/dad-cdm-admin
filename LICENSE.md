@@ -258,7 +258,7 @@ Creative Commons may be contacted at creativecommons.org.
 
 =======================================================================
 
-Non-Assertion Covenant for Standards Track Project Specifications
+## Non-Assertion Covenant for Standards Track Project Specifications
 In addition to the above license, each Contributor also agrees in the CLA to provide the additional covenants as non-assertion covenants for any Project Specifications as explained in the OASIS Open Project Rules Section 15.3 and reproduced below:
 
 Contributor Covenant for Contributions. As a Contributor, you irrevocably covenant that you will not assert any patent claims licensable by you that are necessarily infringed by an implementation of your contribution to the extent that contribution is included in a Project Specification approved by the Open Project to which you made the contribution, against OASIS or any other parties who the Applicable License benefits, for making, having made, using, marketing, importing, offering to sell, selling, and otherwise distributing works that Implement or Derive From your contribution.
