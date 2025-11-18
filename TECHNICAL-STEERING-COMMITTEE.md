@@ -5,10 +5,10 @@ The scope of the TSC is creating and maintaining all work products within the sc
 
 The following members constitute the TSC for the 2024 calendar year (in alphabetical order):
 
-* Amruta Deshpande, Graphika
 * E. Rosalie Li, Information Epidemiology Lab
 * Margot Fulde-Hardy, Red & Blue Consulting
 * Mark Finlayson, Florida International University
+* Rachele Gilman
 * Stephen	Campbell,	DISARM Foundation
 * Yanis	Naceur, SGDSN/Viginum
 
