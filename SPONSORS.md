@@ -9,4 +9,3 @@ Starred organizations have taken the additional step of signing the enterprise c
 * [Foundation for the Defense of Democracies](https://www.fdd.org/)  &bigstar;
 * [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)  &bigstar;
 * [Marvelous](https://marvelous.ai/)  &bigstar;
-* [Storyzy](https://storyzy.com/?lang=en) &bigstar;
