@@ -6,5 +6,4 @@ Starred organizations have taken the additional step of signing the enterprise c
 * AdTechCares &bigstar;
 * [DeBunk EU](https://www.debunk.org/)  &bigstar;
 * [Disinformation Index](https://www.disinformationindex.org/)  &bigstar;
-* [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)  &bigstar;
 * [Marvelous](https://marvelous.ai/)  &bigstar;
